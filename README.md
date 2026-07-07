@@ -1,6 +1,6 @@
 #Shadow12948
 <div align="center">
-  <img src="C:\Users\Sanjana\Pictures\Screenshots\Screenshot 2026-07-07 190700.png" alt="Sanjana S Kattishetti" width="100%" />
+ <img src="C:\Users\Sanjana\Pictures\Screenshots\Screenshot 2026-07-07 190700.png" alt="Sanjana S Kattishetti" width="100%"/>
 </div>
 
 <br/>
