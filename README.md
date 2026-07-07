@@ -1,4 +1,4 @@
-<div algin ="centre">
+<div align ="center">
 <h1>Sanjana</h1>
 
 <div align="center">
