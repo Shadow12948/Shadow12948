@@ -122,9 +122,9 @@
   </picture>
 </div>
 
----
 
-```python
+
+<div algin ="left">
 sanjana = {
     "name":     "Sanjana S Kattishetti",
     "degree":   "BCA Undergraduate",
@@ -134,9 +134,9 @@ sanjana = {
     "open_to":  ["Internships", "Open Source", "Collabs", "Projects"],
     "creed":    "Build it. Break it. Understand it. Rebuild it better.",
 }
-```
 
----
+</div>
+
 
 <div align="center">
 
